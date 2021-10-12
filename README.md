@@ -1,15 +1,19 @@
-# PROJECT NAME
+# Cheese Dating Sim
 
 ## About the Game
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Cheese Dating Sim
 
 ### Contributors:
 Contributors to the project are strictly limated to AIE Students as part of their group work project.
 
 Members (example):
- - John Doe: designer
- - John Smith: programmer
- - Sandra Dee: artist
+ - Nines Fry - Artist
+ - Gurkeerat Singh - Artist
+ - Noah White - Artist
+ - Ryan Jarmain - Designer
+ - May Kovacs - Designer
+ - Bailey Kan - Programmer
+ - Sophie Wesson - Programmer
 
 
 ## Build Steps:
